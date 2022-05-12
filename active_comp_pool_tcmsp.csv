@@ -1,0 +1,150 @@
+Source,ID,Herb,Mol ID,Molecule Name,MW,AlogP,Hdon,Hacc,OB (%),Caco-2,BBB,DL,FASA-,HL
+TCMSP,1,Fructus Ligustri Lucidi,MOL005209,Lucidusculine,401.6,1.46,2,5,30.11,0.16,-0.39,0.75,0.22,10.55
+TCMSP,2,Fructus Ligustri Lucidi,MOL000006,luteolin,286.25,2.07,4,6,36.16,0.19,-0.84,0.25,0.39,15.94
+TCMSP,3,Fructus Ligustri Lucidi,MOL000358,beta-sitosterol,414.79,8.08,1,1,36.91,1.32,0.99,0.75,0.23,5.36
+TCMSP,4,Fructus Ligustri Lucidi,MOL005169,"(20S)-Dammar-24-ene-3beta,20-diol 3-acetate",486.86,7.34,1,3,40.23,1.09,0.58,0.82,0.23,9.14
+TCMSP,5,Fructus Ligustri Lucidi,MOL000422,kaempferol,286.25,1.77,4,6,41.88,0.26,-0.55,0.24,0,14.74
+TCMSP,6,Fructus Ligustri Lucidi,MOL000098,quercetin,302.25,1.5,5,7,46.43,0.05,-0.77,0.28,0.38,14.4
+TCMSP,7,Fructus Ligustri Lucidi,MOL005146,Lucidumoside D,568.63,0.43,4,13,48.87,-1.08,-1.8,0.71,0.23,3.2
+TCMSP,8,Fructus Ligustri Lucidi,MOL005147,Lucidumoside D_qt,406.47,2.18,1,8,54.41,-0.04,-0.54,0.47,0.25,5.83
+TCMSP,9,Fructus Ligustri Lucidi,MOL004576,taxifolin,304.27,1.49,5,7,57.84,-0.23,-0.8,0.27,0.39,14.41
+TCMSP,10,Fructus Ligustri Lucidi,MOL005211,Olitoriside,696.87,-0.5,7,14,65.45,-2.22,-2.92,0.23,0.26,13.15
+TCMSP,11,Fructus Ligustri Lucidi,MOL005190,eriodictyol,288.27,2.03,4,6,71.79,0.17,-0.54,0.24,0.38,15.81
+TCMSP,12,Fructus Ligustri Lucidi,MOL005195,syringaresinol diglucoside_qt,450.48,1.57,4,10,83.12,0.33,-0.49,0.8,0.12,3.29
+TCMSP,13,Fructus Ligustri Lucidi,MOL005212,Olitoriside_qt,404.55,1.34,3,6,103.23,-0.77,-1.25,0.78,0.28,5.98
+TCMSP,1,Spatholobus Suberectus Dunn,MOL000296,hederagenin,414.79,8.08,1,1,36.91,1.32,0.96,0.75,0,5.35
+TCMSP,2,Spatholobus Suberectus Dunn,MOL000033,"(3S,8S,9S,10R,13R,14S,17R)-10,13-dimethyl-17-[(2R,5S)-5-propan-2-yloctan-2-yl]-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol",428.82,8.54,1,1,36.23,1.45,1.09,0.78,0,5.22
+TCMSP,3,Spatholobus Suberectus Dunn,MOL000358,beta-sitosterol,414.79,8.08,1,1,36.91,1.32,0.99,0.75,0.23,5.36
+TCMSP,4,Spatholobus Suberectus Dunn,MOL000392,formononetin,268.28,2.58,1,4,69.67,0.78,0.02,0.21,0,17.04
+TCMSP,5,Spatholobus Suberectus Dunn,MOL000417,Calycosin,284.28,2.32,2,5,47.75,0.52,-0.43,0.24,0,17.1
+TCMSP,6,Spatholobus Suberectus Dunn,MOL000449,Stigmasterol,412.77,7.64,1,1,43.83,1.44,1,0.76,0.22,5.57
+TCMSP,7,Spatholobus Suberectus Dunn,MOL000461,"3,7-dihydroxy-6-methoxy-dihydroflavonol",302.3,1.88,3,6,43.8,-0.06,-0.48,0.26,0,15.14
+TCMSP,8,Spatholobus Suberectus Dunn,MOL000468,8-o-Methylreyusi,298.31,2.57,1,5,70.32,0.86,0.02,0.27,0,15.83
+TCMSP,9,Spatholobus Suberectus Dunn,MOL000469,3-Hydroxystigmast-5-en-7-one,428.77,7.15,1,2,40.93,1.01,0.45,0.78,0,4.89
+TCMSP,10,Spatholobus Suberectus Dunn,MOL000470,8-C-alpha-L-arabinosylluteolin,418.38,0.19,7,10,35.54,-1.37,-2.28,0.66,0,15.61
+TCMSP,11,Spatholobus Suberectus Dunn,MOL000471,aloe-emodin,270.25,1.67,3,5,83.38,-0.12,-1.07,0.24,0,31.49
+TCMSP,12,Spatholobus Suberectus Dunn,MOL000483,(Z)-3-(4-hydroxy-3-methoxy-phenyl)-N-[2-(4-hydroxyphenyl)ethyl]acrylamide,313.38,2.86,3,5,118.35,0.51,-0.27,0.26,0,4.26
+TCMSP,13,Spatholobus Suberectus Dunn,MOL000490,petunidin,317.29,1.65,5,7,30.05,0.16,-0.64,0.31,0,1.21
+TCMSP,14,Spatholobus Suberectus Dunn,MOL000491,Augelicin,426.5,5.05,0,7,37.5,0.66,0.3,0.66,0,2.93
+TCMSP,15,Spatholobus Suberectus Dunn,MOL000492,(+)-catechin,290.29,1.92,5,6,54.83,-0.03,-0.73,0.24,0,0.61
+TCMSP,16,Spatholobus Suberectus Dunn,MOL000493,campesterol,400.76,7.63,1,1,37.58,1.31,0.93,0.71,0,4.71
+TCMSP,17,Spatholobus Suberectus Dunn,MOL000497,licochalcone a,338.43,4.62,2,4,40.79,0.82,-0.21,0.29,0,16.2
+TCMSP,18,Spatholobus Suberectus Dunn,MOL000500,Vestitol,272.32,3.15,2,4,74.66,0.86,0.3,0.21,0,3
+TCMSP,19,Spatholobus Suberectus Dunn,MOL000501,Consume close grain,302.3,2.28,3,6,68.12,0.28,-0.54,0.27,0,16.23
+TCMSP,20,Spatholobus Suberectus Dunn,MOL000502,Cajinin,300.28,2.05,3,6,68.8,0.48,-0.36,0.27,0,14.23
+TCMSP,21,Spatholobus Suberectus Dunn,MOL000503,Medicagol,296.24,3.05,1,6,57.49,0.62,-0.32,0.6,0,11.1
+TCMSP,22,Spatholobus Suberectus Dunn,MOL000506,Lupinidine,234.43,2.36,0,2,61.89,1.41,1.7,0.21,0,7.46
+TCMSP,23,Spatholobus Suberectus Dunn,MOL000507,Psi-Baptigenin,282.26,2.37,1,5,70.12,0.57,-0.27,0.31,0,21.95
+TCMSP,24,Spatholobus Suberectus Dunn,MOL000006,luteolin,286.25,2.07,4,6,36.16,0.19,-0.84,0.25,0.39,15.94
+TCMSP,1,Hedysarum Multijugum Maxim,MOL000211,Mairin,456.78,6.52,2,3,55.38,0.73,0.22,0.78,0.26,8.87
+TCMSP,2,Hedysarum Multijugum Maxim,MOL000239,Jaranol,314.31,2.09,2,6,50.83,0.61,-0.22,0.29,0.29,15.5
+TCMSP,3,Hedysarum Multijugum Maxim,MOL000296,hederagenin,414.79,8.08,1,1,36.91,1.32,0.96,0.75,0,5.35
+TCMSP,4,Hedysarum Multijugum Maxim,MOL000033,"(3S,8S,9S,10R,13R,14S,17R)-10,13-dimethyl-17-[(2R,5S)-5-propan-2-yloctan-2-yl]-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol",428.82,8.54,1,1,36.23,1.45,1.09,0.78,0,5.22
+TCMSP,5,Hedysarum Multijugum Maxim,MOL000354,isorhamnetin,316.28,1.76,4,7,49.6,0.31,-0.54,0.31,0.32,14.34
+TCMSP,6,Hedysarum Multijugum Maxim,MOL000371,"3,9-di-O-methylnissolin",314.36,2.89,0,5,53.74,1.18,0.63,0.48,0,9
+TCMSP,7,Hedysarum Multijugum Maxim,MOL000374,"5'-hydroxyiso-muronulatol-2',5'-di-O-glucoside",642.67,-0.95,9,16,41.72,-2.47,-3.62,0.69,0,2.52
+TCMSP,8,Hedysarum Multijugum Maxim,MOL000378,7-O-methylisomucronulatol,316.38,3.38,1,5,74.69,1.08,0.84,0.3,0,2.98
+TCMSP,9,Hedysarum Multijugum Maxim,MOL000379,"9,10-dimethoxypterocarpan-3-O-beta-D-glucoside",462.49,0.74,4,10,36.74,-0.63,-1.5,0.92,0,13.06
+TCMSP,10,Hedysarum Multijugum Maxim,MOL000380,"(6aR,11aR)-9,10-dimethoxy-6a,11a-dihydro-6H-benzofurano[3,2-c]chromen-3-ol",300.33,2.64,1,5,64.26,0.93,0.55,0.42,0,8.49
+TCMSP,11,Hedysarum Multijugum Maxim,MOL000387,Bifendate,418.38,2.56,0,10,31.1,0.15,-0.06,0.67,0,17.96
+TCMSP,12,Hedysarum Multijugum Maxim,MOL000392,formononetin,268.28,2.58,1,4,69.67,0.78,0.02,0.21,0,17.04
+TCMSP,13,Hedysarum Multijugum Maxim,MOL000398,isoflavanone,316.33,2.42,2,6,109.99,0.53,0.17,0.3,0,15.51
+TCMSP,14,Hedysarum Multijugum Maxim,MOL000417,Calycosin,284.28,2.32,2,5,47.75,0.52,-0.43,0.24,0,17.1
+TCMSP,15,Hedysarum Multijugum Maxim,MOL000422,kaempferol,286.25,1.77,4,6,41.88,0.26,-0.55,0.24,0,14.74
+TCMSP,16,Hedysarum Multijugum Maxim,MOL000433,FA,441.45,0.01,7,13,68.96,-1.5,-2.59,0.71,0,24.81
+TCMSP,17,Hedysarum Multijugum Maxim,MOL000438,"(3R)-3-(2-hydroxy-3,4-dimethoxyphenyl)chroman-7-ol",302.35,3.13,2,5,67.67,0.96,0.34,0.26,0,2.9
+TCMSP,18,Hedysarum Multijugum Maxim,MOL000439,"isomucronulatol-7,2'-di-O-glucosiole",626.67,-0.68,8,15,49.28,-2.22,-3.36,0.62,0,0.93
+TCMSP,19,Hedysarum Multijugum Maxim,MOL000442,"1,7-Dihydroxy-3,9-dimethoxy pterocarpene",314.31,3.11,2,6,39.05,0.89,-0.04,0.48,0,7.95
+TCMSP,20,Hedysarum Multijugum Maxim,MOL000098,quercetin,302.25,1.5,5,7,46.43,0.05,-0.77,0.28,0.38,14.4
+TCMSP,1,licorice,MOL001484,Inermine,284.28,2.44,1,5,75.18,0.89,0.4,0.54,0.3,11.72
+TCMSP,2,licorice,MOL001792,DFV,256.27,2.57,2,4,32.76,0.51,-0.29,0.18,0.42,17.89
+TCMSP,3,licorice,MOL000211,Mairin,456.78,6.52,2,3,55.38,0.73,0.22,0.78,0.26,8.87
+TCMSP,4,licorice,MOL002311,Glycyrol,366.39,4.85,2,6,90.78,0.71,-0.2,0.67,0.28,9.85
+TCMSP,5,licorice,MOL000239,Jaranol,314.31,2.09,2,6,50.83,0.61,-0.22,0.29,0.29,15.5
+TCMSP,6,licorice,MOL002565,Medicarpin,270.3,2.66,1,4,49.22,1,0.53,0.34,0.31,8.46
+TCMSP,7,licorice,MOL000354,isorhamnetin,316.28,1.76,4,7,49.6,0.31,-0.54,0.31,0.32,14.34
+TCMSP,8,licorice,MOL000359,sitosterol,414.79,8.08,1,1,36.91,1.32,0.87,0.75,0.22,5.37
+TCMSP,9,licorice,MOL003656,Lupiwighteone,338.38,3.92,3,5,51.64,0.68,-0.23,0.37,0.36,15.63
+TCMSP,10,licorice,MOL003896,7-Methoxy-2-methyl isoflavone,266.31,3.36,0,3,42.56,1.16,0.56,0.2,0.33,16.89
+TCMSP,11,licorice,MOL000392,formononetin,268.28,2.58,1,4,69.67,0.78,0.02,0.21,0,17.04
+TCMSP,12,licorice,MOL000417,Calycosin,284.28,2.32,2,5,47.75,0.52,-0.43,0.24,0,17.1
+TCMSP,13,licorice,MOL000422,kaempferol,286.25,1.77,4,6,41.88,0.26,-0.55,0.24,0,14.74
+TCMSP,14,licorice,MOL004328,naringenin,272.27,2.3,3,5,59.29,0.28,-0.37,0.21,0.4,16.98
+TCMSP,15,licorice,MOL004805,"(2S)-2-[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]-8,8-dimethyl-2,3-dihydropyrano[2,3-f]chromen-4-one",390.51,5.48,1,4,31.79,1,0.25,0.72,0.35,14.82
+TCMSP,16,licorice,MOL004806,euchrenone,406.56,6.35,1,4,30.29,1.09,0.39,0.57,0,15.89
+TCMSP,17,licorice,MOL004808,glyasperin B,370.43,4.02,3,6,65.22,0.47,-0.09,0.44,0,16.1
+TCMSP,18,licorice,MOL004810,glyasperin F,354.38,2.97,3,6,75.84,0.43,-0.15,0.54,0,15.64
+TCMSP,19,licorice,MOL004811,Glyasperin C,356.45,4.73,3,5,45.56,0.71,0.07,0.4,0,3.13
+TCMSP,20,licorice,MOL004814,Isotrifoliol,298.26,2.99,2,6,31.94,0.53,-0.25,0.42,0,7.91
+TCMSP,21,licorice,MOL004815,"(E)-1-(2,4-dihydroxyphenyl)-3-(2,2-dimethylchromen-6-yl)prop-2-en-1-one",322.38,3.96,2,4,39.62,0.66,-0.12,0.35,0,16.16
+TCMSP,22,licorice,MOL004820,kanzonols W,336.36,3.63,2,5,50.48,0.63,0.04,0.52,0,0.15
+TCMSP,23,licorice,MOL004824,"(2S)-6-(2,4-dihydroxyphenyl)-2-(2-hydroxypropan-2-yl)-4-methoxy-2,3-dihydrofuro[3,2-g]chromen-7-one",384.41,2.96,3,7,60.25,0,-0.76,0.63,0,4.31
+TCMSP,24,licorice,MOL004827,Semilicoisoflavone B,352.36,2.85,3,6,48.78,0.45,-0.33,0.55,0,17.02
+TCMSP,25,licorice,MOL004828,Glepidotin A,338.38,3.9,3,5,44.72,0.79,0.06,0.35,0,16.09
+TCMSP,26,licorice,MOL004829,Glepidotin B,340.4,3.88,3,5,64.46,0.46,-0.09,0.34,0,15.98
+TCMSP,27,licorice,MOL004833,Phaseolinisoflavan,324.4,3.95,2,4,32.01,1.01,0.46,0.45,0,2.66
+TCMSP,28,licorice,MOL004835,Glypallichalcone,284.33,3.4,1,4,61.6,0.76,0.23,0.19,0,17.01
+TCMSP,29,licorice,MOL004838,"8-(6-hydroxy-2-benzofuranyl)-2,2-dimethyl-5-chromenol",308.35,4.2,2,4,58.44,1,0.34,0.38,0.34,8.71
+TCMSP,30,licorice,MOL004841,Licochalcone B,286.3,2.88,3,5,76.76,0.47,-0.46,0.19,0,17.02
+TCMSP,31,licorice,MOL004848,licochalcone G,354.43,4.35,3,5,49.25,0.64,-0.04,0.32,0.35,15.75
+TCMSP,32,licorice,MOL004849,"3-(2,4-dihydroxyphenyl)-8-(1,1-dimethylprop-2-enyl)-7-hydroxy-5-methoxy-coumarin",368.41,4.03,3,6,59.62,0.4,-0.23,0.43,0,0.69
+TCMSP,33,licorice,MOL004855,Licoricone,382.44,4.16,2,6,63.58,0.53,-0.14,0.47,0,16.37
+TCMSP,34,licorice,MOL004856,Gancaonin A,352.41,4.17,2,5,51.08,0.8,0.13,0.4,0,16.82
+TCMSP,35,licorice,MOL004857,Gancaonin B,368.41,3.91,3,6,48.79,0.58,-0.1,0.45,0,16.49
+TCMSP,36,licorice,MOL004860,licorice glycoside E,693.71,1.59,7,14,32.89,-2.06,-2.8,0.27,0.31,25.39
+TCMSP,37,licorice,MOL004863,"3-(3,4-dihydroxyphenyl)-5,7-dihydroxy-8-(3-methylbut-2-enyl)chromone",354.38,3.65,4,6,66.37,0.52,-0.13,0.41,0,15.81
+TCMSP,38,licorice,MOL004864,"5,7-dihydroxy-3-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)chromone",352.41,4.17,2,5,30.49,0.9,0.21,0.41,0,14.99
+TCMSP,39,licorice,MOL004866,"2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-(3-methylbut-2-enyl)chromone",354.38,3.92,4,6,44.15,0.48,-0.28,0.41,0,16.77
+TCMSP,40,licorice,MOL004879,Glycyrin,382.44,4.67,2,6,52.61,0.59,-0.13,0.47,0,1.31
+TCMSP,41,licorice,MOL004882,Licocoumarone,340.4,4.98,3,5,33.21,0.84,0.06,0.36,0,9.66
+TCMSP,42,licorice,MOL004883,Licoisoflavone,354.38,3.65,4,6,41.61,0.37,-0.27,0.42,0,16.09
+TCMSP,43,licorice,MOL004884,Licoisoflavone B,352.36,2.85,3,6,38.93,0.46,-0.18,0.55,0,15.73
+TCMSP,44,licorice,MOL004885,licoisoflavanone,354.38,2.97,3,6,52.47,0.39,-0.22,0.54,0,15.67
+TCMSP,45,licorice,MOL004891,shinpterocarpin,322.38,3.46,1,4,80.3,1.1,0.68,0.73,0.32,6.5
+TCMSP,46,licorice,MOL004898,"(E)-3-[3,4-dihydroxy-5-(3-methylbut-2-enyl)phenyl]-1-(2,4-dihydroxyphenyl)prop-2-en-1-one",340.4,4.49,4,5,46.27,0.41,-0.4,0.31,0.43,15.24
+TCMSP,47,licorice,MOL004903,liquiritin,418.43,0.66,5,9,65.69,-1.06,-1.93,0.74,0,17.96
+TCMSP,48,licorice,MOL004904,licopyranocoumarin,384.41,3.04,3,7,80.36,0.13,-0.62,0.65,0,0.08
+TCMSP,49,licorice,MOL004905,"3,22-Dihydroxy-11-oxo-delta(12)-oleanene-27-alpha-methoxycarbonyl-29-oic acid",512.75,4.37,1,6,34.32,-0.06,-0.75,0.55,0,3.56
+TCMSP,50,licorice,MOL004907,Glyzaglabrin,298.26,2.1,2,6,61.07,0.34,-0.2,0.35,0,21.2
+TCMSP,51,licorice,MOL004908,Glabridin,324.4,3.95,2,4,53.25,0.97,0.36,0.47,0,0.03
+TCMSP,52,licorice,MOL004910,Glabranin,324.4,4.42,2,4,52.9,0.97,0.31,0.31,0,16.24
+TCMSP,53,licorice,MOL004911,Glabrene,322.38,3.77,2,4,46.27,0.99,0.04,0.44,0,3.63
+TCMSP,54,licorice,MOL004912,Glabrone,336.36,3.12,2,5,52.51,0.59,-0.11,0.5,0,16.09
+TCMSP,55,licorice,MOL004913,"1,3-dihydroxy-9-methoxy-6-benzofurano[3,2-c]chromenone",298.26,2.99,2,6,48.14,0.48,-0.19,0.43,0,8.87
+TCMSP,56,licorice,MOL004914,"1,3-dihydroxy-8,9-dimethoxy-6-benzofurano[3,2-c]chromenone",328.29,2.98,2,7,62.9,0.4,-0.34,0.53,0,9.32
+TCMSP,57,licorice,MOL004915,Eurycarpin A,338.38,3.92,3,5,43.28,0.43,-0.06,0.37,0,17.1
+TCMSP,58,licorice,MOL004917,glycyroside,562.57,-0.73,6,13,37.25,-1.58,-2.56,0.79,0,14.62
+TCMSP,59,licorice,MOL004924,(-)-Medicocarpin,432.46,0.75,4,9,40.99,-0.6,-1.34,0.95,0,13.2
+TCMSP,60,licorice,MOL004935,Sigmoidin-B,356.4,3.89,4,6,34.88,0.42,-0.41,0.41,0,14.49
+TCMSP,61,licorice,MOL004941,(2R)-7-hydroxy-2-(4-hydroxyphenyl)chroman-4-one,256.27,2.57,2,4,71.12,0.41,-0.25,0.18,0,18.09
+TCMSP,62,licorice,MOL004945,(2S)-7-hydroxy-2-(4-hydroxyphenyl)-8-(3-methylbut-2-enyl)chroman-4-one,324.4,4.42,2,4,36.57,0.72,-0.04,0.32,0,17.95
+TCMSP,63,licorice,MOL004948,Isoglycyrol,366.39,4.36,1,6,44.7,0.91,0.05,0.84,0,6.69
+TCMSP,64,licorice,MOL004949,Isolicoflavonol,354.38,3.63,4,6,45.17,0.54,-0.42,0.42,0,15.55
+TCMSP,65,licorice,MOL004957,HMO,268.28,2.58,1,4,38.37,0.79,0.25,0.21,0,16.56
+TCMSP,66,licorice,MOL004959,1-Methoxyphaseollidin,354.43,4.25,2,5,69.98,1.01,0.48,0.64,0,9.53
+TCMSP,67,licorice,MOL004961,Quercetin der.,330.31,1.82,3,7,46.45,0.39,-0.44,0.33,0,16.61
+TCMSP,68,licorice,MOL004966,3'-Hydroxy-4'-O-Methylglabridin,354.43,3.93,2,5,43.71,1,0.73,0.57,0,-0.61
+TCMSP,69,licorice,MOL000497,licochalcone a,338.43,4.62,2,4,40.79,0.82,-0.21,0.29,0,16.2
+TCMSP,70,licorice,MOL004974,3'-Methoxyglabridin,354.43,3.93,2,5,46.16,0.94,0.47,0.57,0,0.52
+TCMSP,71,licorice,MOL004978,"2-[(3R)-8,8-dimethyl-3,4-dihydro-2H-pyrano[6,5-f]chromen-3-yl]-5-methoxyphenol",338.43,4.2,1,4,36.21,1.12,0.61,0.52,0,-0.13
+TCMSP,72,licorice,MOL004980,Inflacoumarin A,322.38,4.7,2,4,39.71,0.73,-0.24,0.33,0,2.31
+TCMSP,73,licorice,MOL004985,icos-5-enoic acid,310.58,7.75,1,2,30.7,1.22,1.09,0.2,0,5.28
+TCMSP,74,licorice,MOL004988,Kanzonol F,420.54,5.3,1,5,32.47,1.18,0.56,0.89,0.28,9.98
+TCMSP,75,licorice,MOL004989,6-prenylated eriodictyol,356.4,3.89,4,6,39.22,0.4,-0.29,0.41,0,16.52
+TCMSP,76,licorice,MOL004990,"7,2',4'-Trihydroxy-5-Methoxy-3-phenylcouMarin",300.28,2.56,3,6,83.71,0.24,-0.59,0.27,0,0.99
+TCMSP,77,licorice,MOL004991,7-Acetoxy-2-methylisoflavone,294.32,3.15,0,4,38.92,0.74,0.16,0.26,0,17.49
+TCMSP,78,licorice,MOL004993,8-prenylated eriodictyol,356.4,3.89,4,6,53.79,0.43,-0.44,0.4,0,15.7
+TCMSP,79,licorice,MOL004996,gadelaidic acid,310.58,7.75,1,2,30.7,1.2,0.94,0.2,0,5.25
+TCMSP,80,licorice,MOL000500,Vestitol,272.32,3.15,2,4,74.66,0.86,0.3,0.21,0,3
+TCMSP,81,licorice,MOL005000,Gancaonin G,352.41,4.17,2,5,60.44,0.78,0.23,0.39,0,16.13
+TCMSP,82,licorice,MOL005001,Gancaonin H,420.49,4.71,3,6,50.1,0.6,-0.14,0.78,0,16.64
+TCMSP,83,licorice,MOL005003,Licoagrocarpin,338.43,4.51,1,4,58.81,1.23,0.61,0.58,0.27,9.45
+TCMSP,84,licorice,MOL005007,Glyasperins M,368.41,3.22,2,6,72.67,0.49,-0.04,0.59,0,15.57
+TCMSP,85,licorice,MOL005008,Glycyrrhiza flavonol A,370.38,2.17,4,7,41.28,-0.09,-0.81,0.6,0,13.71
+TCMSP,86,licorice,MOL005012,Licoagroisoflavone,336.36,3.48,2,5,57.28,0.71,0.09,0.49,0,19.64
+TCMSP,87,licorice,MOL005013,18alpha-hydroxyglycyrrhetic acid,486.76,4.55,3,5,41.16,-0.29,-0.78,0.71,0,4.96
+TCMSP,88,licorice,MOL005016,Odoratin,314.31,2.3,2,6,49.95,0.42,-0.24,0.3,0,16.35
+TCMSP,89,licorice,MOL005017,Phaseol,336.36,4.87,2,5,78.77,0.76,-0.06,0.58,0,9.64
+TCMSP,90,licorice,MOL005018,Xambioona,388.49,4.68,0,4,54.85,1.09,0.52,0.87,0,14.5
+TCMSP,91,licorice,MOL005020,dehydroglyasperins C,340.4,4.3,4,5,53.82,0.68,-0.12,0.37,0,2.75
+TCMSP,92,licorice,MOL000098,quercetin,302.25,1.5,5,7,46.43,0.05,-0.77,0.28,0.38,14.4
