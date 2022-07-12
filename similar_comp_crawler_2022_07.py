@@ -133,7 +133,7 @@ if __name__ == "__main__":
     df2 = pd.DataFrame()
     df3 = pd.DataFrame(columns =['no_similar_compound_found',"isomeric_smiles"])
     i = 0
-    for smiles, CpdName in zip(compoundsmiles[47:48], activenamelist[47:48]):
+    for smiles, CpdName in zip(compoundsmiles[:], activenamelist[:]):
         try:
             retrieve = SwissSimilarCrawler (smiles, CpdName)
             df2 = df2.append(retrieve)
@@ -144,7 +144,7 @@ if __name__ == "__main__":
             i += 1
     print(df2.head(2))                   
     retrinamelist = df2['Active_compound_name']
-    df2.to_csv(r"in-silico toxicity and drug interaction prediction\Similar compounds mining\similar_48_pool_swiss_2022_07_08.csv") 
+    df2.to_csv(r"in-silico toxicity and drug interaction prediction\Similar compounds mining\similar_comp_pool_swiss_2022_07_08.csv") 
     seta = set(activenamelist)-set(retrinamelist) 
     df3.to_csv(r"in-silico toxicity and drug interaction prediction\Similar compounds mining\no_similar_retrieve_2022_07_08.csv")    
     end = time.time()
