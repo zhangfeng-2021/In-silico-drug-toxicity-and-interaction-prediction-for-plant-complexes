@@ -8,9 +8,9 @@ import pandas as pd
 import pubchempy as pcp
 import time
 import pyautogui as pag
-from similar_comp_crawler_2022_07 import SwissSimilarCrawler
+from similar_comp_crawler import SwissSimilarCrawler
 import math
-from toxicity_mining_pubchem_2022_07 import get_toxicity_information
+from toxicity_mining_pubchem import get_toxicity_information
 import ast
 
 start = time.time()
