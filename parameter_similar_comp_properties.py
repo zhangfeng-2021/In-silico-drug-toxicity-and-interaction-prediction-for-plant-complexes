@@ -11,7 +11,7 @@ retrievesimilar= []
 Redundantretrieve= []
 similaritylist= []
 alllist= []
-with open(r"similar_comp_properties_sum.csv") as fin:
+with open(r"in-silico toxicity and drug interaction prediction\integration\similar_comp_properties_sum.csv") as fin:
     df1 = pd.read_csv(fin)
 
 while similarity <=1 and similarity >=0.01:
@@ -36,4 +36,4 @@ while similarity <=1 and similarity >=0.01:
     similarity += interv
 
 dfparame= pd.DataFrame(list(zip(activelist, retrievesimilar, Redundantretrieve, similaritylist)), columns = ["number_of_Actives","number_of_Similar_compounds","Redundancy_rate","Similarity_threshold"])
-dfparame.to_csv(r"D:\Study at HKU small documents\Project\My own\Formula\network pharmacology_related\Toxicity mining\similarity based\parameter research\elusive results assessment\parameter_similar_compound_properies.csv")
+dfparame.to_csv(r"in-silico toxicity and drug interaction prediction\integration\parameter research\parameter_similar_compound_properies.csv")

@@ -10,7 +10,7 @@ import time
 
 
 start = time.time()
-with open() as fin:
+with open(r"in-silico toxicity and drug interaction prediction\Active compounds_TCMSP\Active_compounds_2022_07_08.csv") as fin:
     df1 = pd.read_csv(fin)
 compoundname= df1['Molecule Name']
 df2 = pd.DataFrame()
@@ -30,10 +30,10 @@ except:
             df2 = df2.append([com, 'no hit'])
 
 retrinamelist = df2['Molecule Name']
-df2.to_csv() 
+df2.to_csv(r"in-silico toxicity and drug interaction prediction\Property_active\Active_compounds_properties2022_07_08.csv") 
 seta = set(compoundname)-set(retrinamelist) 
 df4 = pd.DataFrame(list(seta), columns=['Compound not found in Pubchem'])    
-df4.to_csv()    
+df4.to_csv(r"in-silico toxicity and drug interaction prediction\Property_active\Active_compounds_properties_no_retrie2022_07_08.csv")    
 end = time.time()
 
 print('Compound not found in Pubchem:', seta)
