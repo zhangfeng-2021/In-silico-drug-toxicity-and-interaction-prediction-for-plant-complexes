@@ -22,7 +22,7 @@ similaritylist = []
 #     similarity += interval
 # dftoxi= dftoxi.sort_values(by= ['Active_compound_name', 'Similarity_score'], ascending= [False, False])
 # dftoxi.to_csv(r"Toxi_infor_sum.csv")
-with open(r"Toxi_infor_sum.csv", encoding = None, errors="ignore") as fin:
+with open(r"in-silico toxicity and drug interaction prediction\integration\Toxi_infor_sum.csv", encoding = None, errors="ignore") as fin:
     df1 = pd.read_csv(fin)
 
 while similarity <= 1 and similarity >= 0.01:
@@ -32,7 +32,7 @@ while similarity <= 1 and similarity >= 0.01:
     df2 = df1[mask]
 
     print(df2.shape[0])
-    df2 = df2.drop(['Similarity_score'],axis = 1)
+    df2 = df2.drop(['Similarity_score'], axis = 1)
     df3 = df2.drop_duplicates(subset=None, keep ='first', inplace=False)
 
     print("number of Actives "+ str(list(set(df2["Active_compound_name"]))))
@@ -51,4 +51,4 @@ while similarity <= 1 and similarity >= 0.01:
 dfparame= pd.DataFrame(list(zip(activelist, retrievesimilar, Redundantretrieve, similaritylist)), 
                        columns = ["number_of_Actives","Retrieves_of_Toxi_information",
                                   "Redundancy_rate_of_toxi_mining","Similarity_threshold"])
-dfparame.to_csv(r"parameter_toxi_infor.csv")
+dfparame.to_csv(r"in-silico toxicity and drug interaction prediction\integration\parameter research\parameter_toxi_infor.csv")
