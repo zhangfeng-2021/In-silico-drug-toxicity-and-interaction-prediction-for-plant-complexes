@@ -78,7 +78,7 @@ while similarity <=1 and similarity >=0.10:
     df1 = pd.read_csv(r"in-silico toxicity and drug interaction prediction\Similar compounds mining\similar_comp_pool.csv")
     RepreComList = list(set(df1["Active_compound_name"]))[0:]+[""]
     # print(RepreComList)
-    mask = ((df1["Similarity_score"] >= (similarity+interv)) & (df1["Similarity_score"] <= similarity) & (df1["Active_compound_name"].isin(RepreComList)))
+    mask = ((df1["Similarity_score"] > (similarity+interv)) & (df1["Similarity_score"] <= similarity) & (df1["Active_compound_name"].isin(RepreComList)))
     df1 = df1[mask]
     # print(df1)
     compoundsmiles = df1['SMILES_of_similar']
